@@ -53,11 +53,16 @@
 
 ---
 
-## 📊 Projects Overview
+## ⚡ GitHub Stats
 
-> Automatically updated chart showing my projects distribution.
+<div align="center">
 
-![Projects Chart](https://raw.githubusercontent.com/devBrunoMarra/projects-chart.svg/main/projects-chart.svg?cache=1)
+<img src="https://github-readme-stats.vercel.app/api?username=devBrunoMarra&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devBrunoMarra&layout=compact&theme=dracula" height="180"/>
+
+</div>
+
 
 ---
 
