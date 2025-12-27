@@ -1,10 +1,36 @@
 ### Hi, I'm Bruno Marra 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-marra-9298b0116/)
+- Software Engineering/ Civil Engineering at Federal District University Center; 
+- Focused on Full Stack Web Development, with experience in HTML, CSS, and JavaScript, API design and integration, database management, and version control using Git;
+- Passionate about building responsive, maintainable, and user-centered web applications, following best practices in clean code, documentation, and troubleshooting;
+- Engineer at Paulo Octávio LTDA.
+---
+
+## 📫 Reach me
+
+<div style="display: inline_block"><br/>
+
+<a href="https://www.linkedin.com/in/bruno-marra-9298b0116/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/eng.brunomarra/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:devbrunomarra@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.duolingo.com/profile/BrunoMarra6" target="_blank">
+  <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 🚀 Technologies I Work With
+## Languages e Tools 💻
 
 <div style="display: inline_block"><br/>
 
@@ -33,10 +59,7 @@
 
 ![Projects Chart](https://raw.githubusercontent.com/devBrunoMarra/projects-chart.svg/main/projects-chart.svg?cache=1)
 
-
 ---
 
 💡 Passionate about technology, continuous learning, and building scalable solutions.  
 🌍 Focused on **Full Stack Development**, clean code, and user-centered experiences.
-
-Add automated projects overview chart
