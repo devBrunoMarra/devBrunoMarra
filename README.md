@@ -29,11 +29,13 @@
 
 ## 📊 Projects Overview
 
-> This chart is automatically updated based on my public repositories.
+> Automatically updated chart showing my projects distribution.
 
-![Projects Chart](./projects-chart.svg)
+![Projects Chart]([https://raw.githubusercontent.com/devBrunoMarra/projects-chart.svg/main/projects-chart.svg](https://raw.githubusercontent.com/devBrunoMarra/projects-chart.svg/refs/heads/main/projects-chart.svg)
 
 ---
 
 💡 Passionate about technology, continuous learning, and building scalable solutions.  
 🌍 Focused on **Full Stack Development**, clean code, and user-centered experiences.
+
+Add automated projects overview chart
