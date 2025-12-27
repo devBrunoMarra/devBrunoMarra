@@ -31,7 +31,8 @@
 
 > Automatically updated chart showing my projects distribution.
 
-![Projects Chart]([https://raw.githubusercontent.com/devBrunoMarra/projects-chart.svg/main/projects-chart.svg](https://raw.githubusercontent.com/devBrunoMarra/projects-chart.svg/refs/heads/main/projects-chart.svg))
+![Projects Chart](https://raw.githubusercontent.com/devBrunoMarra/projects-chart.svg/main/projects-chart.svg?cache=1)
+
 
 ---
 
