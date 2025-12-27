@@ -1,4 +1,4 @@
-### Olá, eu sou o Bruno Marra 👋
+### Hi, I'm Bruno Marra 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-marra-9298b0116/)
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Tecnologias que utilizo no meu dia a dia
+## 🚀 Technologies I Work With
 
 <div style="display: inline_block"><br/>
 
@@ -23,12 +23,11 @@
 <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white"/>
 
 <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
 <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
-<img align="center" alt="UX/UI" src="https://img.shields.io/badge/UX%2FUI-FF4088?style=for-the-badge&logo=adobe&logoColor=white"/>
 
 </div>
 
 ---
 
-Apaixonado por tecnologia, inovação e por transformar ideias em soluções através da programação. Em constante aprendizado, com foco em desenvolvimento **Full Stack**, boas práticas de código e experiência do usuário.
+💡 Passionate about technology, continuous learning, and building scalable solutions.  
+🌍 Focused on **Full Stack Development**, clean code, and user-centered experiences.
