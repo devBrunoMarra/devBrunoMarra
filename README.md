@@ -2,8 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-marra-9298b0116/)
 
-![devBrunoMarra GitHub stats](https://github-readme-stats.vercel.app/api?username=devBrunoMarra&show_icons=true&theme=dracula)
-
 ---
 
 ## 🚀 Technologies I Work With
@@ -26,6 +24,14 @@
 <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
 
 </div>
+
+---
+
+## 📊 Projects Overview
+
+> This chart is automatically updated based on my public repositories.
+
+![Projects Chart](./projects-chart.svg)
 
 ---
 
