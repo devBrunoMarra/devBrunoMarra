@@ -1,6 +1,6 @@
 ### Hi, I'm Bruno Marra 👋
 
-- Sou um profissional em transição de carreira **planejada** e de dedicação integral para a área de Back/Frontend; 
+- I am a professional in a **planned** career transition, fully dedicated to the field of Full Stack Web Development; 
 - Focused on Full Stack Web Development, with experience in HTML, CSS, and JavaScript, API design and integration, database management, and version control using Git;
 - Passionate about building responsive, maintainable, and user-centered web applications, following best practices in clean code, documentation, and troubleshooting;
 - Engineer at Paulo Octávio LTDA.
